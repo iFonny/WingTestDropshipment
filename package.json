@@ -1,0 +1,24 @@
+{
+  "name": "dropshipment",
+  "version": "1.0.0",
+  "description": "dropshipment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iFonny/WingTestDropshipment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iFonny/WingTestDropshipment/issues"
+  },
+  "homepage": "https://github.com/iFonny/WingTestDropshipment#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15"
+  }
+}
